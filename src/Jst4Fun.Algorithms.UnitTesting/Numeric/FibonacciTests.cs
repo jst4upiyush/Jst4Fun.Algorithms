@@ -1,9 +1,9 @@
 using Jst4Fun.Algorithms.Numeric;
 using Xunit;
 
-namespace Jst4Fun.Algorithms.UnitTesting
+namespace Jst4Fun.Algorithms.UnitTesting.Numeric
 {
-    public class UnitTest1
+    public class FibonacciTests
     {
         [Theory]
         [InlineData(0, 0)]
